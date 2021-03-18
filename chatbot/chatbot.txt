@@ -1,0 +1,36 @@
+Structurile in domeniul IT
+Structurile in domeniul IT: Sistemele de Calcul.
+Arhitectura Calculatoarelor
+Arhitectura Calculatoarelor: arta/stiinta de a descrie si a construi sisteme de calcul, care pot executa programe de calculator sau, cu alte cuvinte, structura si comportamentul calculatorului vazute de catre programatorul la nivelul limbajului de asamblare.
+Organizarea Calculatorului
+Organizarea Calculatorului: descrierea componentelor principale logice si fizice utilizate pentru a construi un calculator, cat si modurile de interactiune ale acestora.
+Implementarea Calculatorului
+Implementarea Calculatorului: descrierea componentelor electronice utilizate pentru a construi un calculator, cat si interconectarea acestora in vederea executiei programelor de catre calculator.
+Modelul de executie/operare
+Modelul de executie/operare al unui calculator: descrierea executiei unui program in cadrul unei arhitecturi de calculator.
+Arhitectura setului de instructiuni
+Arhitectura setului de instructiuni: descrierea instructiunilor unui calculator la nivel sintactic si semantic.
+Caracteristica dimensionala
+Caracteristica dimensionala (µm): latimea minima, posibila, a portii unui tranzistor CMOS, intr-o anumita tehnologie.
+Arhitectura unui calculator
+Arhitectura unui calculator = Arhitectura Setului de Instructiuni + Organizarea calculatorului/masinii
+Calculatorul
+Calculatorul este un echipament electronic ce permite prelucrarea automata a datelor sau realizarea unor sarcini, cum ar fi calculele matematice sau comunicaţiile electronice, pe baza unor seturi de instrucţiuni, numite programe.
+Calculator
+Calculatorul este un echipament electronic ce permite prelucrarea automata a datelor sau realizarea unor sarcini, cum ar fi calculele matematice sau comunicaţiile electronice, pe baza unor seturi de instrucţiuni, numite programe.
+Sistemul de calcul
+Sistemul de calcul este ansamblul de componente hardware si software in interactiune, destinat prelucrarii datelor. 
+Sistem de calcul
+Sistemul de calcul este ansamblul de componente hardware si software in interactiune, destinat prelucrarii datelor. 
+limbaj masina
+Calculatorul poate executa numai instructiuni exprimate intern sub forma unor siruri de cifre binare. Programele in care instructiunile sunt scrise sub aceasta forma se numesc programe in limbaj masina. Limbajul masina este caracteristic fiecarui tip de calculator. 
+limbajul masina
+Calculatorul poate executa numai instructiuni exprimate intern sub forma unor siruri de cifre binare. Programele in care instructiunile sunt scrise sub aceasta forma se numesc programe in limbaj masina. Limbajul masina este caracteristic fiecarui tip de calculator. 
+Chip
+Definitie Un chip este o pastila de siliciu, de forma unui patrat cu latura de cativa milimetri. Din considerate mecanice si termice, pastila este plasata intr-o capsula de plastic, de dimensiuni mai mari. Conexiunile pastilei de siliciu cu alte circuite, sursele de tensiune si masa electrica se realizeaza prin asa numitii pini, plasati pe laturile capsului de plastic. 
+RISC
+Reduced Instruction Set Computer (RISC), calculator cu set de instrucțiuni reduse, este o arhitectură a unui microprocesor și calculator cu un set de comenzi simple și rapide, în care viteza crește datorită simplificării instrucțiunilor, astfel încât decodificarea acestora este mai simplă, pentru a oferi performanțe superioare
+CISC
+Complex Instruction Set Computer (CISC) reprezintă o arhitectură a unui procesor și calculator în care fiecare instrucțiune poate efectua mai multe operații și mai multe cicluri la nivel scăzut, cum ar fi accesul la memorie (citirea datelor în memorie, modificarea acestora și salvarea lor directă în memorie), operațiile aritmetice sau calculele adreselor.
+RAID
+Conceptul RAID combină mai multe discuri dure (HDD) fizice într-o singură unitate de discuri logică cu o capacitate de stocare mai mare, folosind o componentă hardware sau o aplicație software. Soluțiile hardware sunt proiectate cu scopul de a se prezenta sistemului la care sunt atașate ca un singur disc dur mare, cu alte caracteristici de stocare, fără ca sistemul de operare să aibă nevoie să cunoască arhitectura fizică reală. Sistemele RAID reprezintă o virtualizare a discurilor dure reale înglobate. Soluțiile software sunt implementate în sistemul de operare, dar aplicațiile utilizează arhitectura RAID ca o singură unitate.
